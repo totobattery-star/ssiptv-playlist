@@ -35,13 +35,31 @@ https://airassamese-lh.akamaihd.net/i/airassamese_1@528059/master.m3u8
 https://northeastservice-lh.akamaihd.net/i/northeastservice_1@528061/master.m3u8
 #EXTINF:-1 radio="true" group-title="AIR - Kashmir",Akashvani Kashmir
 https://kashmiri-lh.akamaihd.net/i/kashmiri_1@528067/master.m3u8
-#EXTINF:-1 radio="true" group-title="Private / Internet - Hindi",Radio Mirchi Hindi (third-party stream)
-https://eu8.fastcast4u.com/proxy/clyedupq/stream
-#EXTINF:-1 radio="true" group-title="Private / Internet - Bollywood",Mirchi Top 20 (internet stream)
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Radio Mirchi Retro Bollywood (third-party stream)
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Radio Mirchi Indies (third-party stream)
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Radio Mirchi Mehfil-E-Ghazal (third-party stream)
+https://mirchimahfil-lh.akamaihd.net/i/MirchiMehfl_1@120798/index_1_a-b.m3u8
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",Radio City Hindi (third-party stream)
+http://prclive1.listenon.in:9960/
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",Radio City Lata Mangeshkar (third-party stream)
+http://prclive1.listenon.in:8832
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",Radio City Asha Bhosle (third-party stream)
+http://prclive1.listenon.in:8812/
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",Radio City Kishore Kumar (third-party stream)
+http://prclive1.listenon.in:8834/
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",Radio City Mohammed Rafi (third-party stream)
+http://prclive1.listenon.in:8814/
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",Radio City Mukesh (third-party stream)
+http://prclive1.listenon.in:9308/
+#EXTINF:-1 radio="true" group-title="Private FM - Bollywood",92.7 BIG FM (third-party stream)
+https://stream-14.zeno.fm/r2gn1pgm4qruv
+#EXTINF:-1 radio="true" group-title="Internet Radio - Bollywood",Mirchi Top 20
 https://drive.uber.radio/uber/bollywoodnow/icecast.audio
-#EXTINF:-1 radio="true" group-title="Private / Internet - Bollywood",Bolly FM
+#EXTINF:-1 radio="true" group-title="Internet Radio - Bollywood",Bolly FM
 https://stream.zeno.fm/zu59ykebs2zuv
-#EXTINF:-1 radio="true" group-title="Private / Internet - Hindi",Oye India
+#EXTINF:-1 radio="true" group-title="Internet Radio - Hindi",Oye India
 https://stream.zeno.fm/cgrwb1hd4v8uv
-#EXTINF:-1 radio="true" group-title="Private / Internet - Hindi",Hindi Gold Radio
+#EXTINF:-1 radio="true" group-title="Internet Radio - Hindi",Hindi Gold Radio
 https://azuracast.vibesounds.in:8010/radio.mp3
