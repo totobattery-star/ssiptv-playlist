@@ -63,3 +63,13 @@ https://stream.zeno.fm/zu59ykebs2zuv
 https://stream.zeno.fm/cgrwb1hd4v8uv
 #EXTINF:-1 radio="true" group-title="Internet Radio - Hindi",Hindi Gold Radio
 https://azuracast.vibesounds.in:8010/radio.mp3
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Radio Mirchi 98.3 FM (third-party stream)
+https://eu8.fastcast4u.com/proxy/clyedupq/stream
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Mirchi Love (third-party stream)
+https://drive.uber.radio/uber/bollywoodlove/icecast.audio
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",92.7 BIG FM - alternate stream (third-party stream)
+https://stream.zeno.fm/dbstwo3dvhhtv
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Red FM 93.5 Delhi (legacy third-party stream)
+http://radionation.hidtechs.com:8001/delhi-93_5-ist.mp3
+#EXTINF:-1 radio="true" group-title="Private FM - Hindi",Red FM (third-party stream; region/source may vary)
+https://funasia.streamguys1.com/live9
