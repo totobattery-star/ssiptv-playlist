@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 radio="true" group-title="AIR - National",Akashvani Vividh Bharati
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - National",Akashvani FM Gold
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - National",Akashvani FM Rainbow
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - National",Akashvani Raagam
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio139/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - National",Akashvani Live News 24x7
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio002/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Hindi",Akashvani AIR Urdu
+https://airurdu-lh.akamaihd.net/i/airurdu_1@507813/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Gujarati",Akashvani Gujarati
+https://airgujarati-lh.akamaihd.net/i/airgujarati_1@507814/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Marathi",Akashvani Marathi
+https://airmarathi-lh.akamaihd.net/i/airmarathi_1@507815/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Punjabi",Akashvani Punjabi
+https://airpunjabi-lh.akamaihd.net/i/airpunjabi_1@507822/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Malayalam",Akashvani Malayalam
+https://airmalayalam-lh.akamaihd.net/i/airmalayalam_1@507816/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Tamil",Akashvani Tamil
+https://airtamil-lh.akamaihd.net/i/airtamil_1@507817/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Telugu",Akashvani Telugu
+https://airtelugu-lh.akamaihd.net/i/airtelugu_1@507818/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Kannada",Akashvani Kannada
+https://airkannada-lh.akamaihd.net/i/airkannada_1@507819/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Bengali",Akashvani Bangla
+https://airbangla-lh.akamaihd.net/i/airbangla_1@507821/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Odia",Akashvani Odia
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Assamese",Akashvani Assamese
+https://airassamese-lh.akamaihd.net/i/airassamese_1@528059/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - North East",Akashvani North Eastern Service
+https://northeastservice-lh.akamaihd.net/i/northeastservice_1@528061/master.m3u8
+#EXTINF:-1 radio="true" group-title="AIR - Kashmir",Akashvani Kashmir
+https://kashmiri-lh.akamaihd.net/i/kashmiri_1@528067/master.m3u8
+#EXTINF:-1 radio="true" group-title="Private / Internet - Hindi",Radio Mirchi Hindi (third-party stream)
+https://eu8.fastcast4u.com/proxy/clyedupq/stream
+#EXTINF:-1 radio="true" group-title="Private / Internet - Bollywood",Mirchi Top 20 (internet stream)
+https://drive.uber.radio/uber/bollywoodnow/icecast.audio
+#EXTINF:-1 radio="true" group-title="Private / Internet - Bollywood",Bolly FM
+https://stream.zeno.fm/zu59ykebs2zuv
+#EXTINF:-1 radio="true" group-title="Private / Internet - Hindi",Oye India
+https://stream.zeno.fm/cgrwb1hd4v8uv
+#EXTINF:-1 radio="true" group-title="Private / Internet - Hindi",Hindi Gold Radio
+https://azuracast.vibesounds.in:8010/radio.mp3
