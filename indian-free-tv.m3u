@@ -1,0 +1,26 @@
+#EXTM3U
+# Publicly available Indian TV streams
+# Streams can change or be geo-restricted; availability is not guaranteed.
+# Use official/public broadcaster streams only.
+
+# News
+#EXTINF:-1 tvg-id="AajTak.in" group-title="India - News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in" group-title="India - News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in" group-title="India - News",ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:-1 tvg-id="ABPAnanda.in" group-title="India - Bengali News",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+
+# Public service / culture
+#EXTINF:-1 tvg-id="DDIndia.in" group-title="India - Public Service",DD India
+https://d2gvyg6lvauoko.cloudfront.net/230226/ddindia/chunks.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in" group-title="India - Culture",DD Bharati
+https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
+
+# Devotional
+#EXTINF:-1 tvg-id="Aastha.in" group-title="India - Devotional",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8
+#EXTINF:-1 tvg-id="AasthaBhajan.in" group-title="India - Devotional",Aastha Bhajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
